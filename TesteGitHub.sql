@@ -1,3 +1,4 @@
-create procedure teste as
+create or alter procedure teste as
 
 -- Teste
+-- Teste 2
